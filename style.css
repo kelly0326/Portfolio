@@ -27,6 +27,7 @@ a {
 
 .container{
   margin: 0 auto; /* Center the DIV horizontally */
+  padding: 5px;
 }
 
 .fixed-header, .fixed-footer{
