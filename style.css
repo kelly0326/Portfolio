@@ -46,6 +46,10 @@ a {
   bottom: 0;
 }    
 
+nav {
+  font-size: 20px;
+}
+
  /* Some more styles to beutify this example */
 nav a{
   color: #fff;
