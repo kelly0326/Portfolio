@@ -1,6 +1,7 @@
 /* Add some padding on document's body to prevent the content
 to go underneath the header and footer */
 body{        
+  margin: 0px 20px 0px 20px;
   padding-top: 60px;
   padding-bottom: 40px;
   background-color: rgb(245,245,245);
@@ -25,7 +26,6 @@ a {
 }
 
 .container{
-  width: 80%;
   margin: 0 auto; /* Center the DIV horizontally */
 }
 
