@@ -1,5 +1,3 @@
-                                                        4.2 Portfolio Milestone 1
-
 List of Projects in this Portfolio
 
 1. Titanic Project
