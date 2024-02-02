@@ -28,5 +28,6 @@ This project was about a fictitious new chain of beer stores that needed a good 
 
 This project was about finding and presenting data that allows the airline industry to reassure the public that flying is still safe after a set of widely publicized airline crashes. Various datasets were provided, and I chose one dataset about airline accidents going back several decades, as well as a supplemental dataset about motor vehicle crashes, to compare the safety records of both modes of transportation. The initial part of the project, as shown here, was the EDA I did in Jupyter Notebook.
 
-6.	DSC 680 ongoing project
-7.	DSC 680 ongoing project
+6.	Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices (DSC 680: Ongoing project)
+   
+8.	DSC 680 ongoing project
