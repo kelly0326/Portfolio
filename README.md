@@ -5,6 +5,7 @@ List of Projects in this Portfolio
 3. Analyzing Customer Churn in the Telecommunication Industry
 4. Selecting Startup Inventory for a New Chain of Beer Stores
 5. Air Traffic is Still Safe (ongoing project)
+6. Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices (DSC 680: Ongoing project)
 
 Description
 
@@ -18,7 +19,7 @@ In this project, I took three individual datasets and added them as tables to a 
 
 3.	Analyzing Customer Churn in the Telecommunication Industry (DSC 630)
 
-Based on a Kaggle dataset about customer churn in the telecommunication industry, my team and I attempted to determine how telco companies can reduce customer churn. To do so, we first did an EDA to see what data was in the dataset and how it needed to be cleaned and prepared for the next steps in the analysis. After the cleaning, we did some feature engineering by creating dummy columns, as well as reformatting yes/no columns to binaries. We used a logistic regression model and random forest regressor to determine feature importance and based on that, recommend what the telcos should concentrate on to reduce customer churn.
+Based on a Kaggle dataset about customer churn in the telecommunication industry, my team and I attempted to determine how telco companies can reduce customer churn. To do so, we first did an EDA to see what data was in the dataset and how it needed to be cleaned and prepared for the next steps in the analysis. After the cleaning, we did some feature engineering by creating dummy columns, as well as reformatting yes/no columns to binaries. We used a logistic regression model and random forest regressor to determine feature importance and, based on that, recommend what the telcos should concentrate on to reduce customer churn.
 
 4.	Selecting Startup Inventory for a New Chain of Beer Stores (DSC 680)
 
@@ -29,5 +30,7 @@ This project was about a fictitious new chain of beer stores that needed a good 
 This project was about finding and presenting data that allows the airline industry to reassure the public that flying is still safe after a set of widely publicized airline crashes. Various datasets were provided, and I chose one dataset about airline accidents going back several decades, as well as a supplemental dataset about motor vehicle crashes, to compare the safety records of both modes of transportation. The initial part of the project, as shown here, was the EDA I did in Jupyter Notebook.
 
 6.	Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices (DSC 680: Ongoing project)
+
+This project was about finding a way to predict short-term stock price changes in American Airlines stock by using other airline stock prices and/or vendor stock prices, as well as economic indicators and/or resource prices (i.e. fuel). It included exploratory data analysis (EDA), data preparation, and model evaluation. The linked Jupyter Notebook shows all parts of this project, including the final model evaluation and recommendation.
    
 8.	DSC 680 ongoing project
