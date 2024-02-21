@@ -5,7 +5,7 @@ List of Projects in this Portfolio
 3. Analyzing Customer Churn in the Telecommunication Industry
 4. Selecting Startup Inventory for a New Chain of Beer Stores
 5. Air Traffic is Still Safe
-6. Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices
+6. Predicting Stock Performance of American Airlines
 7. Predictive Maintenance: Naval Vessel Condition
 8. Apple Quality Prediction
 9. Brand Sentiment Analysis
