@@ -6,7 +6,7 @@ List of Projects in this Portfolio
 4. Selecting Startup Inventory for a New Chain of Beer Stores
 5. Air Traffic is Still Safe
 6. Predicting American Airlines Stock Prices
-7. Predictive Maintenance: Naval Vessel Condition
+7. Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance
 8. Apple Quality Prediction
 9. Brand Sentiment Analysis
 
@@ -36,7 +36,7 @@ This project was about finding and presenting data that allows the airline indus
    
 This project was about finding a way to predict short-term stock price changes in American Airlines stock by using other airline stock prices and/or vendor stock prices, as well as economic indicators and/or resource prices (i.e., fuel). It included exploratory data analysis (EDA), data preparation, and model evaluation. The linked Jupyter Notebook shows all parts of this project, including the final model evaluation and recommendation.
    
-7.	Predictive Maintenance: Naval Vessel Condition (DSC 680 ongoing project)
+7.	Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance (DSC 680 ongoing project)
   
 This project will dive into maintenance and operational data collected from the engine rooms of naval vessels to derive a preventative maintenance schedule in order to minimize unplanned repairs.
 
