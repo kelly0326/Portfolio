@@ -4,8 +4,11 @@ List of Projects in this Portfolio
 2. Crime Rates
 3. Analyzing Customer Churn in the Telecommunication Industry
 4. Selecting Startup Inventory for a New Chain of Beer Stores
-5. Air Traffic is Still Safe (ongoing project)
-6. Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices (DSC 680: Ongoing project)
+5. Air Traffic is Still Safe
+6. Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices
+7. Predictive Maintenance: Naval Vessel Condition
+8. Apple Quality Prediction
+9. Brand Sentiment Analysis
 
 Description
 
@@ -23,15 +26,15 @@ Based on a Kaggle dataset about customer churn in the telecommunication industry
 
 4.	Selecting Startup Inventory for a New Chain of Beer Stores (DSC 680)
 
-This project was about a fictitious new chain of beer stores that needed a good startup inventory. My goal was to predict which beers the store should stock in order to have the best chance of success (i.e. good sales). I used a Kaggle dataset containing data about beer reviews. It contained information about the types of beers and the features/properties of the individual beers. I did an EDA to determine what information could be gleaned from the dataset and what cleaning and preparation would need to be done. Once the dataset was cleaned and ready for further analysis, I used a random forest regressor to determine feature importance, then calculated the most popular beer types and beers within the types, and finally produced a list of 30 styles of beers with 20 beers in each for the stores to use.
+This project was about a fictitious new chain of beer stores that needed a good startup inventory. My goal was to predict which beers the store should stock in order to have the best chance of success (i.e., good sales). I used a Kaggle dataset containing data about beer reviews. It contained information about the types of beers and the features/properties of the individual beers. I did an EDA to determine what information could be gleaned from the dataset and what cleaning and preparation would need to be done. Once the dataset was cleaned and ready for further analysis, I used a random forest regressor to determine feature importance, then calculated the most popular beer types and beers within the types, and finally produced a list of 30 styles of beers with 20 beers in each for the stores to use.
 
-5.	Air Traffic is Still Safe (DSC 640: Ongoing project)
+5.	Air Traffic is Still Safe
 
 This project was about finding and presenting data that allows the airline industry to reassure the public that flying is still safe after a set of widely publicized airline crashes. Various datasets were provided, and I chose one dataset about airline accidents going back several decades, as well as a supplemental dataset about motor vehicle crashes, to compare the safety records of both modes of transportation. The initial part of the project, as shown here, was the EDA I did in Jupyter Notebook.
 
 6.	Predicting Stock Performance of American Airlines Based on Economic Indicators and Vendors Stock Prices (DSC 680: Ongoing project)
 
-This project was about finding a way to predict short-term stock price changes in American Airlines stock by using other airline stock prices and/or vendor stock prices, as well as economic indicators and/or resource prices (i.e. fuel). It included exploratory data analysis (EDA), data preparation, and model evaluation. The linked Jupyter Notebook shows all parts of this project, including the final model evaluation and recommendation.
+This project was about finding a way to predict short-term stock price changes in American Airlines stock by using other airline stock prices and/or vendor stock prices, as well as economic indicators and/or resource prices (i.e., fuel). It included exploratory data analysis (EDA), data preparation, and model evaluation. The linked Jupyter Notebook shows all parts of this project, including the final model evaluation and recommendation.
    
 7.	Predictive Maintenance: Naval Vessel Condition (DSC 680 ongoing project)
   
