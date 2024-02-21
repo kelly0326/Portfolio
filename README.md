@@ -33,4 +33,15 @@ This project was about finding and presenting data that allows the airline indus
 
 This project was about finding a way to predict short-term stock price changes in American Airlines stock by using other airline stock prices and/or vendor stock prices, as well as economic indicators and/or resource prices (i.e. fuel). It included exploratory data analysis (EDA), data preparation, and model evaluation. The linked Jupyter Notebook shows all parts of this project, including the final model evaluation and recommendation.
    
-7.	DSC 680 ongoing project
+7.	Predictive Maintenance: Naval Vessel Condition (DSC 680 ongoing project)
+  
+This project will dive into maintenance and operational data collected from the engine rooms of naval vessels to derive a preventative maintenance schedule in order to minimize unplanned repairs.
+
+8. Apple Quality Prediction
+
+Predicting the Quality Label (good/bad) of Apples from Numerical Features (Crunchiness, Acidity, etc.), using neural networks and decision trees.
+
+9. Brand Sentiment Analysis
+
+This project analyzes a brand name (or any query string yielding Google News results) by gauging sentiment across about 100 news articles. It gathers URLs via BeautifulSoup, calculates sentiment scores using TextBlob, and aggregates these scores. Results include average sentiment, counts of positive, neutral, and negative articles, and a pie chart illustrating brand sentiment.
+
