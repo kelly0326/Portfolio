@@ -7,8 +7,9 @@ List of Projects in this Portfolio
 5. Air Traffic is Still Safe
 6. Predicting American Airlines Stock Prices
 7. Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance
-8. Apple Quality Prediction
+8. Predicting the Quality Categories of Apples from Numerical Features Using Neural Networks and Decision Trees
 9. Brand Sentiment Analysis
+10. Determining Emotional State through Facial Expression Analysis
 
 Description
 
@@ -38,13 +39,16 @@ This project was about finding a way to predict short-term stock price changes i
    
 7.	Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance (DSC 680 ongoing project)
   
-This project will dive into maintenance and operational data collected from the engine rooms of naval vessels to derive a preventative maintenance schedule in order to minimize unplanned repairs.
+This project dives into maintenance and operational data collected from the engine rooms of naval vessels to derive the current decay state coefficient of both the gas turbine and the gas turbine compressor of the vessel propulsion system. The final model was able to predict the decay state coefficient with an accuracy of 99%. If this model were to be used in real-time on a gas turbine-powered naval vessel, it could substantially lower the risk of at-sea breakdown by allowing maintenance well in advance of potential breakdown, but not unnecessarily early.
 
-8. Apple Quality Prediction
+8. Predicting the Quality Categories of Apples from Numerical Features Using Neural Networks and Decision Trees
 
-Predicting the Quality Label (good/bad) of Apples from Numerical Features (Crunchiness, Acidity, etc.), using neural networks and decision trees.
+This project created a model to predict the quality category (good/bad) of apples, based on numerical features, such as sweetness and crunchiness. By using this model, growers can successfully classify their apples for certain uses. The final model was able to predict the quality category with an accuracy of 91%.
 
 9. Brand Sentiment Analysis
 
 This project analyzes a brand name (or any query string yielding Google News results) by gauging sentiment across about 100 news articles. It gathers URLs via BeautifulSoup, calculates sentiment scores using TextBlob, and aggregates these scores. Results include average sentiment, counts of positive, neutral, and negative articles, and a pie chart illustrating brand sentiment.
 
+10. Determining Emotional State through Facial Expression Analysis
+
+Customer satisfaction is a primary concern for retailers because only satisfied customers are repeat customers. This project aims to create a system to automatically determine the customers' emotional state during their last interaction, by taking an image of their faces and running it against a model with three categories: Happy, neutral, and sad. This determination can then be used to have a managerial staff member address the customer to see if anything needs to be changed or fixed for the customer to go from sad or neutral to happy. The system can also be used a second time to validate the efficiency of the intervention.
