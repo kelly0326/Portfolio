@@ -25,25 +25,25 @@ In this project, I took three individual datasets and added them as tables to a 
 
 Based on a Kaggle dataset about customer churn in the telecommunication industry, my team and I attempted to determine how telco companies can reduce customer churn. To do so, we first did an EDA to see what data was in the dataset and how it needed to be cleaned and prepared for the next steps in the analysis. After the cleaning, we did some feature engineering by creating dummy columns, as well as reformatting yes/no columns to binaries. We used a logistic regression model and random forest regressor to determine feature importance and, based on that, recommend what the telcos should concentrate on to reduce customer churn.
 
-4.	Selecting Startup Inventory for a New Chain of Beer Stores (DSC 680)
+4.	Selecting Startup Inventory for a New Chain of Beer Stores (DSC 680_Project1)
 
 This project was about a fictitious new chain of beer stores that needed a good startup inventory. My goal was to predict which beers the store should stock in order to have the best chance of success (i.e., good sales). I used a Kaggle dataset containing data about beer reviews. It contained information about the types of beers and the features/properties of the individual beers. I did an EDA to determine what information could be gleaned from the dataset and what cleaning and preparation would need to be done. Once the dataset was cleaned and ready for further analysis, I used a random forest regressor to determine feature importance, then calculated the most popular beer types and beers within the types, and finally produced a list of 30 styles of beers with 20 beers in each for the stores to use.
 
-5.	Air Traffic is Still Safe
+5.	Air Traffic is Still Safe (DSC 640)
 
 This project was about finding and presenting data that allows the airline industry to reassure the public that flying is still safe after a set of widely publicized airline crashes. Various datasets were provided, and I chose one dataset about airline accidents going back several decades, as well as a supplemental dataset about motor vehicle crashes, to compare the safety records of both modes of transportation. The initial part of the project, as shown here, was the EDA I did in Jupyter Notebook.
 
-6.	Predicting American Airlines Stock Prices
+6.	Predicting American Airlines Stock Prices (DSC 680_Project2)
    
 This project was about finding a way to predict short-term stock price changes in American Airlines stock by using other airline stock prices and/or vendor stock prices, as well as economic indicators and/or resource prices (i.e., fuel). It included exploratory data analysis (EDA), data preparation, and model evaluation. The linked Jupyter Notebook shows all parts of this project, including the final model evaluation and recommendation.
    
-7.	Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance (DSC 680 ongoing project)
+7.	Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance (DSC 680_Project3)
   
 This project dives into maintenance and operational data collected from the engine rooms of naval vessels to derive the current decay state coefficient of both the gas turbine and the gas turbine compressor of the vessel propulsion system. The final model was able to predict the decay state coefficient with an accuracy of 99%. If this model were to be used in real-time on a gas turbine-powered naval vessel, it could substantially lower the risk of at-sea breakdown by allowing maintenance well in advance of potential breakdown, but not unnecessarily early.
 
 8. Predicting the Quality Categories of Apples from Numerical Features Using Neural Networks and Decision Trees
 
-This project created a model to predict the quality category (good/bad) of apples, based on numerical features, such as sweetness and crunchiness. By using this model, growers can successfully classify their apples for certain uses. The final model was able to predict the quality category with an accuracy of 91%.
+This project created a model to predict the quality category (good/bad) of apples based on numerical features, such as sweetness and crunchiness. By using this model, growers can successfully classify their apples for certain uses. The final model was able to predict the quality category with an accuracy of 91%.
 
 9. Brand Sentiment Analysis
 
@@ -51,4 +51,3 @@ This project analyzes a brand name (or any query string yielding Google News res
 
 10. Determining Emotional State through Facial Expression Analysis
 
-Customer satisfaction is a primary concern for retailers because only satisfied customers are repeat customers. This project aims to create a system to automatically determine the customers' emotional state during their last interaction, by taking an image of their faces and running it against a model with three categories: Happy, neutral, and sad. This determination can then be used to have a managerial staff member address the customer to see if anything needs to be changed or fixed for the customer to go from sad or neutral to happy. The system can also be used a second time to validate the efficiency of the intervention.
