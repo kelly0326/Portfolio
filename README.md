@@ -13,11 +13,11 @@ List of Projects in this Portfolio
 
 Description
 
-1.	Titanic Project (DSC 530)
+1.	Titanic Survival (DSC 530)
 
 Using a dataset with information about the passengers of the Titanic disaster, I did an analysis to determine what the primary factors for surviving the sinking were. I did an initial EDA to get an idea of what the data holds and what needs to be cleaned up and prepared for the analysis. I then used the chi-square test to see which variables had a strong association with survival, and I did both a multi-nominal logistic regression and a linear regression to predict the most important factors for survival.
 
-2.	Crime Rates (DSC 540)
+2.	Los Angeles Crime Rates (DSC 540)
 
 In this project, I took three individual datasets and added them as tables to a MySQL database. I used the mysql_connector package to enable Python in my Jupyter Notebook to access my locally hosted MySQL database server. Using several custom helper functions, I loaded the three datasets into the database. After, I decided on which visualizations I wanted to make and which data I would need for them. I used SQL queries to collect the data from one or more tables into Python data frames and then visualized them using Matplotlib.
 
