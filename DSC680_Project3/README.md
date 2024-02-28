@@ -1,3 +1,3 @@
 Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance (DSC 680)
 
-This project will dive into maintenance and operational data collected from the engine rooms of naval vessels to derive a preventative maintenance schedule in order to minimize unplanned repairs.
+This project dives into maintenance and operational data collected from the engine rooms of naval vessels to derive the current decay state coefficient of both the gas turbine and the gas turbine compressor of the vessel propulsion system. The final model was able to predict the decay state coefficient with an accuracy of 99%. If this model were to be used in real-time on a gas turbine-powered naval vessel, it could substantially lower the risk of at-sea breakdown by allowing maintenance well in advance of potential breakdown, but not unnecessarily early.
