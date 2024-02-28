@@ -1,7 +1,7 @@
 List of Projects in this Portfolio
 
-1. Titanic Project
-2. Crime Rates
+1. Titanic Survival
+2. Los Angeles Crime Rates
 3. Analyzing Customer Churn in the Telecommunication Industry
 4. Selecting Startup Inventory for a New Chain of Beer Stores
 5. Air Traffic is Still Safe
@@ -9,7 +9,7 @@ List of Projects in this Portfolio
 7. Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance
 8. Predicting the Quality Categories of Apples from Numerical Features Using Neural Networks and Decision Trees
 9. Brand Sentiment Analysis
-10. Determining Emotional State through Facial Expression Analysis
+10. 
 
 Description
 
