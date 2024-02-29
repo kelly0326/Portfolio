@@ -9,7 +9,7 @@ List of Projects in this Portfolio
 7. Predicting Naval Vessel Condition for the Purpose of Preventative Maintenance
 8. Predicting the Quality Categories of Apples from Numerical Features Using Neural Networks and Decision Trees
 9. Brand Sentiment Analysis
-10. 
+10. Predicting Car Insurance Premium
 
 Description
 
@@ -49,5 +49,7 @@ This project created a model to predict the quality category (good/bad) of apple
 
 This project analyzes a brand name (or any query string yielding Google News results) by gauging sentiment across about 100 news articles. It gathers URLs via BeautifulSoup, calculates sentiment scores using TextBlob, and aggregates these scores. Results include average sentiment, counts of positive, neutral, and negative articles, and a pie chart illustrating brand sentiment.
 
-10. Determining Emotional State through Facial Expression Analysis
+10. Predicting Car Insurance Premium
+
+The objective of this project is to leverage data-driven approaches and predictive modeling techniques to develop a robust framework for estimating car insurance costs. By analyzing historical data and identifying patterns within various attributes, I aim to build a predictive model that accurately forecasts insurance premiums based on individual characteristics. This predictive model will enable insurance companies to streamline their underwriting processes, optimize pricing strategies, and offer competitive premiums tailored to each customer's risk profile.
 
